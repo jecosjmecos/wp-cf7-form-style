@@ -1,0 +1,14 @@
+.wpcf7-not-valid-tip{
+	position: absolute;
+	opacity: 0;
+}
+
+.wpcf7-not-valid{
+	background: #ffd0d0;
+}
+
+.wpcf7-response-output{
+	padding: 0!important;
+	border: none!important;
+	margin: 0!important;
+}
